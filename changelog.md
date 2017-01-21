@@ -19,3 +19,11 @@
 ## [1.0.2] - 2017-01-20
 ### ADDED
 - Spongebob Squarepants avatar
+
+## [1.0.3] - 2017-01-20
+### CHANGED
+- Enhanced tooltip to add quotes to heads
+
+## [1.0.3] - 2017-01-20
+### CHANGED
+- Updated changelog to fix conflicts
