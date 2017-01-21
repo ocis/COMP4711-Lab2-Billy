@@ -12,6 +12,10 @@
 
 # CHANGE LOG
 
+## [1.0.2] - 2017-01-20
+### CHANGED
+- Enhanced tooltip to add quotes to heads
+
 ## [1.0.1] - 2017-01-19
 ### ADDED
 - Change log created
