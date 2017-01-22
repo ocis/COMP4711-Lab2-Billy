@@ -27,3 +27,8 @@
 ## [1.0.3] - 2017-01-20
 ### CHANGED
 - Updated changelog to fix conflicts
+
+## [1.0.4] - 2017-01-20
+### ADDED
+- New random method that generates a welcome page with a random quote
+  - can be tested at quotes.local/welcome/random or http://quotes.local/index.php/welcome/random
