@@ -32,3 +32,6 @@
 ### ADDED
 - New random method that generates a welcome page with a random quote
   - can be tested at quotes.local/welcome/random or http://quotes.local/index.php/welcome/random
+## [1.0.5] - 2017-1-26
+### CHANGED
+- Playing around with gpg signing
