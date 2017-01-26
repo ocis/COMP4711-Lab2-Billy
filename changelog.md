@@ -35,3 +35,4 @@
 ## [1.0.5] - 2017-1-26
 ### CHANGED
 - Playing around with gpg signing
+- playing again
